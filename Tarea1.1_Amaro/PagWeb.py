@@ -51,7 +51,7 @@ while True:
         todo = {'tematica': tematica}
         break
     elif modo == 3:
-        url = input('Cuales es la url')s
+        url = input('Cuales es la url')
         todo = {'url': url}
         break
     elif modo == 4:
